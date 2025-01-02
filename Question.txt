@@ -1,0 +1,10 @@
+2.Create a React application that allows users to input their details into a form and display the submitted data on the same page after form submission.
+Form Details:
+
+    Create a form with the following fields:
+        Name: Text input (required).
+        Email: Text input (required, must be a valid email format).
+        Age: Number input (required, must be a positive number).
+
+Add "Submit"  button:
+    The "Submit" button submits the form
